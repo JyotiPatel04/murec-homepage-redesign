@@ -160,27 +160,29 @@ The website has been optimized for:
 
 ---
 
-## 📸 Screenshots
+## 📸 Project Screenshots
 
-### Hero Section
+### 🏠 Hero Section
 
-_Add screenshot here_
+![Hero Section](screenshots/hero.png)
 
-### Featured Collection
+---
 
-_Add screenshot here_
+### 🌿 Featured Collection
 
-### Associations
+![Featured Collection](screenshots/featured-collection.png)
 
-_Add screenshot here_
+---
 
-### Partners
+### 🤝 Partners & Associations
 
-_Add screenshot here_
+![Partners](screenshots/partners.png)
 
-### Contact Section
+---
 
-_Add screenshot here_
+### 📞 Contact Section
+
+![Contact Section](screenshots/contact.png)
 
 ---
 
