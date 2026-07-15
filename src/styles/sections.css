@@ -20,7 +20,7 @@
 }
 
 .hero-bg img {
-  animation: hero-kenburns 20s ease-in-out infinite alternate;
+  animation: hero-kenburns 5s ease-in-out infinite alternate;
 }
 
 @keyframes hero-kenburns {
